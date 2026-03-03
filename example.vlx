@@ -1,0 +1,22 @@
+let x = 10
+let y = 20
+
+if x < y:
+    write "x is less than y"
+else:
+    write "x is greater or equal to y"
+
+let sum = 0
+for i in [1, 2, 3, 4, 5]:
+    sum = sum + i
+
+write sum
+
+let count = 0
+let limit = 3
+
+while count < limit:
+    write count
+    count = count + 1
+
+write "done"
