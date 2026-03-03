@@ -1,11 +1,6 @@
-# Veltrix v0.1 Lexer Specification
-//     __   _____ _  _____ ___ _____  __
-//     \ \ / / __| ||_   _| _ \_ _\ \/ /
-//      \ V /| _|| |__| | |   /| | >  < 
-//       \_/ |___|____|_| |_|_\___/_/\_\
-//                                      
-//                                                         
-//                                                         
+# Veltrix v0.1 Lexer Specification      
+
+
 ## 1. Project Overview
 
 Veltrix is a programming language designed with an indentation-based block structure to enforce uniform code formatting and readability. The v0.1 specification defines the foundational lexing phase, strictly separating token generation from parsing.
